@@ -30,7 +30,9 @@
     {
       "id": 1,
       "name": "Người Dơi Bắt Đầu",
-      "categories": ["Hành động"],
+      "categories": [
+        "Hành động"
+      ],
       "duration": 140,
       "openDate": "27/09/2023",
       "linkPreview": "https://www.youtube.com/embed/DB18OGB-ABM?si=qrmQ3Sg9qYeRHUQn",
@@ -52,7 +54,10 @@
     {
       "id": 2,
       "name": "Kẻ Kiến Tạo",
-      "categories": ["Hành động", "Phiêu lưu"],
+      "categories": [
+        "Hành động",
+        "Phiêu lưu"
+      ],
       "duration": 140,
       "openDate": "29/09/2023",
       "linkPreview": "https://www.youtube.com/embed/Aognln5uNwA?si=bVHjNtbdADJPUUmf",
@@ -72,7 +77,10 @@
     {
       "id": 3,
       "name": "Thảm họa mưa axit",
-      "categories": ["Hành động", "Hồi hộp"],
+      "categories": [
+        "Hành động",
+        "Hồi hộp"
+      ],
       "duration": 100,
       "openDate": "29/09/2023",
       "linkPreview": "https://www.youtube.com/embed/7pFH2HffdKA?si=Jc8zhyjJ3BCB_IML",
@@ -90,7 +98,10 @@
     {
       "id": 4,
       "name": "Thanh Gươm Trừ Tà",
-      "categories": ["Hài hước", "Kinh dị"],
+      "categories": [
+        "Hài hước",
+        "Kinh dị"
+      ],
       "duration": 98,
       "openDate": "06/10/2023",
       "linkPreview": "https://www.youtube.com/embed/V6Km0awtvEY?si=pidVLPKcSKuPaZRb",
@@ -111,7 +122,10 @@
     {
       "id": 5,
       "name": "Biệt Đội Đánh Thuê 4",
-      "categories": ["Hành động", "Phiêu lưu"],
+      "categories": [
+        "Hành động",
+        "Phiêu lưu"
+      ],
       "duration": 103,
       "openDate": "22/09/2023",
       "linkPreview": "https://www.youtube.com/embed/TixcSyLkznw?si=gPIvhVFf5eBZpECy",
@@ -119,13 +133,20 @@
       "iconFilm": "https://www.betacinemas.vn/Assets/Common/icons/films/c-18.png",
       "description": "Sẵn sàng cho những màn cận chiến nghẹt thở từ “anh trọc” Jason Statham, “già gân” Sylvester Stallone cùng dàn sao mới toanh 50 Cent, Megan Fox và Tony Jaa",
       "director": "Scott Waugh",
-      "performer": ["Jason Statham", "50 Cent", "Megan Fox"],
+      "performer": [
+        "Jason Statham",
+        "50 Cent",
+        "Megan Fox"
+      ],
       "language": "Tiếng Anh"
     },
     {
       "id": 6,
       "name": "Live - Phát Trực Tiếp",
-      "categories": ["Tâm lý", "Kinh dị"],
+      "categories": [
+        "Tâm lý",
+        "Kinh dị"
+      ],
       "duration": 91,
       "openDate": "22/09/2023",
       "linkPreview": "https://www.youtube.com/embed/3r_MJiI9Hr8?si=4nU4boobbaLJUew3",
@@ -133,13 +154,20 @@
       "iconFilm": "https://www.betacinemas.vn/Assets/Common/icons/films/c-18.png",
       "description": "“Live - #PhátTrựcTiếp” lựa chọn hai câu chuyện: MUKBANG và REVIEW để lột tả một cách rõ nét được hiện thực của cuộc sống, sự trần trụi của xã hội hiện đại, công nghệ 4.0 đã khiến con người làm đủ mọi cách để nổi tiếng, kể cả hành hạ bản thân mình nhằm nhận được sự tung hô, hào nhoáng bằng những lời khen tặng với dòng text vô thưởng, vô phạt, kiếm tiền bằng “tặng hoa”.",
       "director": "Khương Ngọc",
-      "performer": ["Quốc Khánh", "Ngọc Phước", "Ngân 98"],
+      "performer": [
+        "Quốc Khánh",
+        "Ngọc Phước",
+        "Ngân 98"
+      ],
       "language": "Tiếng Việt"
     },
     {
       "id": 7,
       "name": "Ác Quỷ Ma Sơ II",
-      "categories": ["Kinh dị", "Hồi hộp"],
+      "categories": [
+        "Kinh dị",
+        "Hồi hộp"
+      ],
       "duration": 110,
       "openDate": "08/09/2023",
       "linkPreview": "https://www.youtube.com/embed/otM2V_g8Kqo?si=l9drctC5WgpHokpN",
@@ -159,7 +187,9 @@
     {
       "id": 8,
       "name": "Nhân Duyên Tiền Đình",
-      "categories": ["Hài hước"],
+      "categories": [
+        "Hài hước"
+      ],
       "duration": 118,
       "openDate": "15/09/2023",
       "linkPreview": "https://www.youtube.com/embed/jsGOuqU6SBQ?si=lq8lsXkd5pEHHnqH",
@@ -179,7 +209,10 @@
     {
       "id": 9,
       "name": "PAW Patrol: Phim Siêu Đẳng",
-      "categories": ["Hành động", "Phiêu lưu"],
+      "categories": [
+        "Hành động",
+        "Phiêu lưu"
+      ],
       "duration": 93,
       "openDate": "29/09/2023",
       "linkPreview": "https://www.youtube.com/embed/6rVUn7TKHS4?si=W-lObUYyXHEnIV96",
@@ -199,7 +232,10 @@
     {
       "id": 10,
       "name": "3DCG! Shin - Cậu Bé Bút Chì: Đại Chiến Siêu Năng Lực ~ Shusi Bay ~",
-      "categories": ["Hoạt hình", "Phiêu lưu"],
+      "categories": [
+        "Hoạt hình",
+        "Phiêu lưu"
+      ],
       "duration": 93,
       "openDate": "25/08/2023",
       "linkPreview": "https://www.youtube.com/embed/P6CGQuA73w0?si=6waiPhDqv-AY5QQ6",
@@ -219,7 +255,10 @@
     {
       "id": 11,
       "name": "Án Mạng Ở Venice",
-      "categories": ["Tội phạm", "Tâm lý"],
+      "categories": [
+        "Tội phạm",
+        "Tâm lý"
+      ],
       "duration": 103,
       "openDate": "15/09/2023",
       "linkPreview": "https://www.youtube.com/embed/maw2FnYE_a0?si=5C4IkHG407inL8Hs",
@@ -239,7 +278,10 @@
     {
       "id": 12,
       "name": "Ánh Dương Sau Hoàng Hôn",
-      "categories": ["Tình cảm", "Kinh dị"],
+      "categories": [
+        "Tình cảm",
+        "Kinh dị"
+      ],
       "duration": 105,
       "openDate": "22/09/2023",
       "linkPreview": "https://www.youtube.com/embed/pY_DSSkgAK0?si=R-9Axv2x910TeNE8",
@@ -247,13 +289,19 @@
       "iconFilm": "https://www.betacinemas.vn/Assets/Common/icons/films/c-18.png",
       "description": "Nhân duyên trời định giữa 2 con người xa lạ được khởi nguồn từ lời nguyền gia tộc buộc Quý nam Phra Ploeng (Zee Pruk Panich) phải ghép tử vi kịp thời với tri kỷ của mình là Saeng Rawee (NuNew Chawarin Perdpiriyawong) nếu không muốn kiếp nạn đại hung sẽ ứng nghiệm vào năm 25 tuổi.",
       "director": "Aod Bhandit Thongdee",
-      "performer": ["Zee Pruk Panich", "NuNew Chawarin Perdpiriyawong"],
+      "performer": [
+        "Zee Pruk Panich",
+        "NuNew Chawarin Perdpiriyawong"
+      ],
       "language": "Tiếng Thái"
     },
     {
       "id": 13,
       "name": "Muôn Kiếp Nhân Duyên",
-      "categories": ["Lãng mãn", "Tâm lý"],
+      "categories": [
+        "Lãng mãn",
+        "Tâm lý"
+      ],
       "duration": 106,
       "openDate": "29/09/2023",
       "linkPreview": "https://www.youtube.com/embed/Vf5TYzsFXAQ?si=B6YcJK5I77crxi_5",
@@ -261,13 +309,19 @@
       "iconFilm": "https://www.betacinemas.vn/Assets/Common/icons/films/c-18.png",
       "description": "Muôn Kiếp Nhân Duyên xoay quanh hai nhân vật chính - Nora (Greta Lee) và Hae Sung (Teo Yoo). Tình bạn thân thiết của họ bị chia cắt khi Nora theo gia đình di cư khỏi Hàn Quốc vào năm 12 tuổi. 20 năm sau, như một mối duyên tiền định, họ gặp lại nhau tại Mỹ, nhưng lúc này, Nora đã trở thành vợ của Arthur (John Magaro). Nhìn lại quá khứ, nói về hiện tại và hướng đến tương lai - những cuộc trò chuyện nhẹ nhàng giữa Nora và Hae Sung trong 1 tuần ngắn ngủi ở New York được đan xen bởi các khoảng lặng, khiến người xem chìm đắm vào suy ngẫm về cuộc sống, số phận và tình yêu.",
       "director": "Celine Song",
-      "performer": ["Greta Lee", "Teo Yoo"],
+      "performer": [
+        "Greta Lee",
+        "Teo Yoo"
+      ],
       "language": "Tiếng Anh"
     },
     {
       "id": 14,
       "name": "Trừng Phạt",
-      "categories": ["Hành động", "Tội phạm"],
+      "categories": [
+        "Hành động",
+        "Tội phạm"
+      ],
       "duration": 91,
       "openDate": "15/09/2023",
       "linkPreview": "https://www.youtube.com/embed/2OPd65L01I8?si=XcjYEIFzeQF6qHl-",
@@ -275,7 +329,11 @@
       "iconFilm": "https://www.betacinemas.vn/Assets/Common/icons/films/c-16.png",
       "description": "Matt Turner (Liam Neeson) là một doanh nhân người Mỹ thành đạt sống ở Berlin, đang phải cân bằng giữa sự nghiệp tài chính đang bùng nổ và trách nhiệm gia đình. Một buổi sáng đang lái xe đưa con đến trường, Matt nhận được một cuộc điện thoại từ một giọng nói bí ẩn: có một quả bom dưới ghế của anh ấy sẽ phát nổ trừ khi anh ấy hoàn thành một loạt nhiệm vụ cụ thể, và nhanh chóng.",
       "director": "Nimrod Antal",
-      "performer": ["Liam Neeson", "Jack Champion", "Matthew Modine"],
+      "performer": [
+        "Liam Neeson",
+        "Jack Champion",
+        "Matthew Modine"
+      ],
       "language": "Tiếng Anh"
     }
   ],
@@ -878,13 +936,69 @@
       "price": 75000,
       "startTime": "Fri Sep 29 2023 23:00:00 GMT+0700 (Indochina Time)",
       "id": 4
+    },
+    {
+      "movieId": 1,
+      "cinemaId": 1,
+      "theaterId": 14,
+      "price": 50000,
+      "startTime": "Wed Oct 04 2023 18:07:35 GMT+0700 (Indochina Time)",
+      "createdAt": 1696399699404,
+      "id": 5
+    },
+    {
+      "movieId": 1,
+      "cinemaId": 1,
+      "theaterId": 14,
+      "price": 50000,
+      "startTime": "Thu Oct 05 2023 17:08:38 GMT+0700 (Indochina Time)",
+      "createdAt": 1696399720132,
+      "id": 6
+    },
+    {
+      "movieId": 2,
+      "cinemaId": 2,
+      "theaterId": 26,
+      "price": 50000,
+      "startTime": "Thu Oct 12 2023 13:18:25 GMT+0700 (Indochina Time)",
+      "createdAt": 1696400252082,
+      "id": 7
+    },
+    {
+      "movieId": 1,
+      "cinemaId": 1,
+      "theaterId": 14,
+      "price": 50000,
+      "startTime": "Wed Oct 04 2023 23:32:49 GMT+0700 (Indochina Time)",
+      "createdAt": 1696407957370,
+      "id": 8
+    },
+    {
+      "movieId": 1,
+      "cinemaId": 1,
+      "theaterId": 14,
+      "price": 50000,
+      "startTime": "Wed Oct 04 2023 22:31:19 GMT+0700 (Indochina Time)",
+      "createdAt": 1696408280896,
+      "id": 9
+    },
+    {
+      "movieId": 4,
+      "cinemaId": 1,
+      "theaterId": 30,
+      "price": 50000,
+      "startTime": "Wed Oct 04 2023 21:22:25 GMT+0700 (Indochina Time)",
+      "createdAt": 1696410922204,
+      "id": 10
     }
   ],
   "bookings": [
     {
       "id": 1,
       "showtimeId": 1,
-      "seat": ["a1, a2"],
+      "seat": [
+        "a1, a2"
+      ],
       "total": 100000,
       "userId": 2,
       "movieId": 1,
@@ -895,7 +1009,9 @@
     {
       "id": 2,
       "showtimeId": 1,
-      "seat": ["a1, a2"],
+      "seat": [
+        "a1, a2"
+      ],
       "total": 100000,
       "userId": 2,
       "movieId": 5,
